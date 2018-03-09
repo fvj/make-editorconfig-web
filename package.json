@@ -1,0 +1,19 @@
+{
+	"name": "make-editorconfig-web",
+	"version": "0.0.1",
+	"description": "A web frontend for make-editorconfig",
+	"main": "index.js",
+	"repository": "git@github.com:fvj/make-editorconfig-web.git",
+	"author": "Julius von Froreich <fvj@users.noreply.github.com>",
+	"license": "MIT",
+	"dependencies": {
+		"babel-plugin-transform-async-to-generator": "^6.24.1",
+		"blueprint": "^2.1.5",
+		"make-editorconfig": "fvj/make-editorconfig",
+		"react": "^16.2.0",
+		"react-dom": "^16.2.0"
+	},
+	"devDependencies": {
+		"babel-core": "^6.26.0"
+	}
+}
