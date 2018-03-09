@@ -59,3 +59,6 @@ typings/
 
 # ignore parcel cache
 .cache
+
+# ignore dist
+dist
